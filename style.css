@@ -3,5 +3,13 @@ body{
 }
 
 h1{
-    color: white;
+    color:black;
+}
+
+h3{
+    color: black;
+}
+
+li{
+    color: black;
 }
